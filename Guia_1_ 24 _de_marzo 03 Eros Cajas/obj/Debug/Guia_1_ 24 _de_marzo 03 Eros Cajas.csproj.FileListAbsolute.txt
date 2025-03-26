@@ -11,3 +11,17 @@ C:\Users\LABORATORIO\Desktop\Guia_1_ 24 _de_marzo 03 Eros Cajas\Guia_1_ 24 _de_m
 C:\Users\LABORATORIO\Desktop\Guia_1_ 24 _de_marzo 03 Eros Cajas\Guia_1_ 24 _de_marzo 03 Eros Cajas\obj\Debug\Guia_1__24__de_marzo_03_Eros_Cajas.Form2.resources
 C:\Users\LABORATORIO\Desktop\Guia_1_ 24 _de_marzo 03 Eros Cajas\Guia_1_ 24 _de_marzo 03 Eros Cajas\obj\Debug\Guia_1__24__de_marzo_03_Eros_Cajas.Form3.resources
 C:\Users\LABORATORIO\Desktop\Guia_1_ 24 _de_marzo 03 Eros Cajas\Guia_1_ 24 _de_marzo 03 Eros Cajas\obj\Debug\Guia_1__24__de_marzo_03_Eros_Cajas.Form4.resources
+C:\Users\mikeg\source\repos\23ECM01-Eros-Cajas\Guia1\Guia_1_ 24 _de_marzo 03 Eros Cajas\bin\Debug\Guia_1_ 24 _de_marzo 03 Eros Cajas.exe.config
+C:\Users\mikeg\source\repos\23ECM01-Eros-Cajas\Guia1\Guia_1_ 24 _de_marzo 03 Eros Cajas\bin\Debug\Guia_1_ 24 _de_marzo 03 Eros Cajas.exe
+C:\Users\mikeg\source\repos\23ECM01-Eros-Cajas\Guia1\Guia_1_ 24 _de_marzo 03 Eros Cajas\bin\Debug\Guia_1_ 24 _de_marzo 03 Eros Cajas.pdb
+C:\Users\mikeg\source\repos\23ECM01-Eros-Cajas\Guia1\Guia_1_ 24 _de_marzo 03 Eros Cajas\obj\Debug\Guia_1_ 24 _de_marzo 03 Eros Cajas.csproj.AssemblyReference.cache
+C:\Users\mikeg\source\repos\23ECM01-Eros-Cajas\Guia1\Guia_1_ 24 _de_marzo 03 Eros Cajas\obj\Debug\Guia_1__24__de_marzo_03_Eros_Cajas.Form1.resources
+C:\Users\mikeg\source\repos\23ECM01-Eros-Cajas\Guia1\Guia_1_ 24 _de_marzo 03 Eros Cajas\obj\Debug\Guia_1__24__de_marzo_03_Eros_Cajas.Form2.resources
+C:\Users\mikeg\source\repos\23ECM01-Eros-Cajas\Guia1\Guia_1_ 24 _de_marzo 03 Eros Cajas\obj\Debug\Guia_1__24__de_marzo_03_Eros_Cajas.Form3.resources
+C:\Users\mikeg\source\repos\23ECM01-Eros-Cajas\Guia1\Guia_1_ 24 _de_marzo 03 Eros Cajas\obj\Debug\Guia_1__24__de_marzo_03_Eros_Cajas.Form4.resources
+C:\Users\mikeg\source\repos\23ECM01-Eros-Cajas\Guia1\Guia_1_ 24 _de_marzo 03 Eros Cajas\obj\Debug\Guia_1__24__de_marzo_03_Eros_Cajas.Properties.Resources.resources
+C:\Users\mikeg\source\repos\23ECM01-Eros-Cajas\Guia1\Guia_1_ 24 _de_marzo 03 Eros Cajas\obj\Debug\Guia_1_ 24 _de_marzo 03 Eros Cajas.csproj.GenerateResource.cache
+C:\Users\mikeg\source\repos\23ECM01-Eros-Cajas\Guia1\Guia_1_ 24 _de_marzo 03 Eros Cajas\obj\Debug\Guia_1_ 24 _de_marzo 03 Eros Cajas.csproj.CoreCompileInputs.cache
+C:\Users\mikeg\source\repos\23ECM01-Eros-Cajas\Guia1\Guia_1_ 24 _de_marzo 03 Eros Cajas\obj\Debug\Guia_1_ 24 _de_marzo 03 Eros Cajas.exe
+C:\Users\mikeg\source\repos\23ECM01-Eros-Cajas\Guia1\Guia_1_ 24 _de_marzo 03 Eros Cajas\obj\Debug\Guia_1_ 24 _de_marzo 03 Eros Cajas.pdb
+C:\Users\mikeg\source\repos\23ECM01-Eros-Cajas\Guia1\Guia_1_ 24 _de_marzo 03 Eros Cajas\obj\Debug\Guia_1__24__de_marzo_03_Eros_Cajas.Form5.resources
